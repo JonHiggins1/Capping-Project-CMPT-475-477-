@@ -1,0 +1,16 @@
+{
+  "name": " HERBY RESTful API",
+  "version": "1.0.0",
+  "description": "Express Sample",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce",
+  "license": "HERBY",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node-sqlserver": "*",
+    "body-parser": "*"
+  }
+}
